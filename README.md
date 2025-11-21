@@ -3,7 +3,7 @@
 Este módulo corresponde a la **Tarea 3** del proyecto de Sistemas Distribuidos.  
 Implementa un **análisis batch** sobre datos históricos de Yahoo! Answers y respuestas del LLM, utilizando **Hadoop + HDFS + Apache Pig**.
 
-La Tarea 2 (Kafka, Flink, API, etc.) se mantiene en el repositorio, pero **no es necesario levantarla** para esta entrega. El foco es este módulo de análisis offline.
+La Tarea 2 (Kafka, Flink, API, etc.) se mantiene en el repositorio, pero **no es necesario levantarla** para esta entrega.
 
 ---
 
