@@ -10,8 +10,7 @@ La Tarea 2 (Kafka, Flink, API, etc.) se mantiene en el repositorio, pero **no es
 ## Estructura del proyecto 
 
 ```text
-T3 SD/
- ├─ Tarea2 SD/                  # Código de la Tarea 2 (streaming, Kafka, Flink, API, etc.)
+T3 SD/                          # Tambien está el código de la Tarea 2 (streaming, Kafka, Flink, API, etc.)
  ├─ batch/
  │   ├─ Dockerfile              # Imagen de Hadoop + Pig + Python
  │   ├─ scripts/
